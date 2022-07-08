@@ -1,0 +1,6 @@
+.calculator {
+   margin: 5rem 30% 0 30%;
+   border: 2px solid gray;
+   background-color: rgba(155, 148, 148, 0.657);
+   padding: 2rem 3rem;
+}
